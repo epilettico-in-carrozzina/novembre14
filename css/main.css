@@ -1,0 +1,18 @@
+/* chiamiamo il file principale main.css
+perchè questo file sarà utilizzato da tutto il sito.
+Poi magari ci saranno dei file separati per personalizzare le varie sezioni...
+ad esempio la sezioni Elefanti del Petshop magari avrà lo sfondo grigio...
+mentre quella delle Tartarughe avrà lo sfondo verde...*/
+
+h1{
+    background-color: rgba(255, 0, 255, 0.694);
+    color: rgb(233, 233, 233);
+    padding: 20px;
+    text-align: center;
+}
+
+#fonte {
+    color:darkblue;
+    text-align: right;
+
+}
